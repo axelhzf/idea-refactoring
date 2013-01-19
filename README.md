@@ -1,4 +1,4 @@
 idea-refactoring
 ================
 
-Source code form refactoring talk
+Source code for refactoring talk
